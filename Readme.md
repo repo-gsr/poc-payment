@@ -44,13 +44,13 @@
    
    Response : 
    
-   {
-    "paymentId": 4,
-    "totalAmount": 10.00,
-    "numberOfPayments": 3,
-    "regularPaymentAmount": 3.33,
-    "lastAmount": 3.34
-   }
+         {
+            "paymentId": 4,
+            "totalAmount": 10.00,
+            "numberOfPayments": 3,
+            "regularPaymentAmount": 3.33,
+            "lastAmount": 3.34
+         }
   
  3) Get all the PaymentPlan Details  
  
